@@ -1,0 +1,11 @@
+.furniture {
+    border: 1px solid purple;
+}
+
+.crafts {
+    border: 1px solid navy;
+}
+
+.electronics {
+    border: 1px dotted green;
+}
